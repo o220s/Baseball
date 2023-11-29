@@ -15,5 +15,4 @@ public interface BaseballDao {
 	
 	public void save();
 	public void load();	
-	
 }
